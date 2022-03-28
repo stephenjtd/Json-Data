@@ -1,4 +1,4 @@
-var cities = 
+
 {
     "title":    "Locations",
     "locations":    
